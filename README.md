@@ -34,7 +34,7 @@ I'm trying to learn more about Software Engineering, Deep Learning/Machine Learn
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <h4 align="center">Game Development<h4>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" style="width: 5%;, height: 5%;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Godot_logo.svg" style="width: 5%;, height: 5%;">
   <h4 align="center">Mobile Application Development<h4>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
