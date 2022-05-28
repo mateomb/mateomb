@@ -7,4 +7,7 @@ I'm currently advancing my knowledge of Fullstack Web Development by creating sm
 Alongside this I'm getting into Game Development, and have worked previously with small engines such as Godot. I'm trying to future develop my 
 skills and have taken up learning Unreal Engine 5 in my free time.
 
+Even though most of my experince lies in Web Development this is not the only field I am interested in!
+I'm trying to learn more about Software Engineering, Deep Learning/Machine Learning as well as VR, AR & XR development.
+
 The best means of reaching me would be via my personal email: mateo.matijevic.bosnjak@gmail.com
